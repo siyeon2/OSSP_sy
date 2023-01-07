@@ -42,7 +42,10 @@ _1/6_
 >**An OpenCV barcode scanner with ZBar**
 >* Recognition complete 
 >![image](https://user-images.githubusercontent.com/93849755/211146495-19bb06b9-59a4-4de8-8004-a6b538023c89.png)
-
+>
+>* Increase resolution 
+>![image](https://user-images.githubusercontent.com/93849755/211147347-9e026982-97fd-4c01-8d31-6d817b2869f7.png)
+> * 기존 코드 해상도와 차이가 없다. 카메라 모듈 차이
 
 
 
