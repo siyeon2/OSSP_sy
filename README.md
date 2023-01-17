@@ -62,7 +62,18 @@ _1/10_
 </br>
 
 >_Auto focus_
->>
+>
 >![image](https://user-images.githubusercontent.com/93849755/212852982-4c50a4a8-ee27-4806-ac96-07f99f68f429.png)
 > - 해상도는 압도적으로 좋지만 , 카메라가 한번 켜지면 꺼지지 않는다 (일회성)
+
+
+</br>
+
+>***Using OpenCV instead of Pi Camera***
+> - 기존 소스에서는 OpenCV에서 라즈베리파이 카메라 모듈에 접근해 PiCamera로 바코드를 인식했었다.
+> - PiCamera를 사용하지 않고 OpenCV 로만 바코드를 인식했을 시 기존 소스코드 보다 바코드를 인식할 수 있는 거리가 늘어난 것을 확인할 수 있었다.
 > 
+> _otherwise use OpenCV_
+> 
+> ![open_png](https://user-images.githubusercontent.com/93849755/212860611-746df443-cf0f-4731-9eba-6458f422f7ed.jpg)
+> - 노랑색(기존 소스코드), 파란색(opencv instead of picamera)
