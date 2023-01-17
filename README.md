@@ -43,17 +43,23 @@ _1/6_
 >* Recognition complete 
 >![image](https://user-images.githubusercontent.com/93849755/211146495-19bb06b9-59a4-4de8-8004-a6b538023c89.png)
 >
->* Increase resolution 
->![image](https://user-images.githubusercontent.com/93849755/211147347-9e026982-97fd-4c01-8d31-6d817b2869f7.png)
-> - 기존 코드 해상도와 차이가 없다. 카메라 모듈 차이
-> - 바코드 사진이 화면에 꽉 찰 정도로 가까이 가야만 안정적으로 바코드가 인식된다. (10cm 내외)
 
 </br>
 </br>
 
 ***
 
-_1/?_
+_1/10_
+> **Original**
+>![ori_png](https://user-images.githubusercontent.com/93849755/212828403-261482f5-6bc2-4e54-a35c-3aba0f88b3a2.jpg)
+> * 기존 코드에서 바코드 인식 되는 최대 거리 (약 20cm)
+</br>
+
+> _Increase resolution_ 
 >
->
+>![image](https://user-images.githubusercontent.com/93849755/211147347-9e026982-97fd-4c01-8d31-6d817b2869f7.png)
+> - 기존 코드 해상도와 차이가 없다. 카메라 모듈 차이
+</br>
+
+>_Auto focus_
 >
