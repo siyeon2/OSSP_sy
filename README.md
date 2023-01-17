@@ -62,4 +62,7 @@ _1/10_
 </br>
 
 >_Auto focus_
->
+>>
+>![image](https://user-images.githubusercontent.com/93849755/212852982-4c50a4a8-ee27-4806-ac96-07f99f68f429.png)
+> - 해상도는 압도적으로 좋지만 , 카메라가 한번 켜지면 꺼지지 않는다 (일회성)
+> 
