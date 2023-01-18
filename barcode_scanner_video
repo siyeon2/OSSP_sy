@@ -20,7 +20,6 @@ print("[INFO] starting video stream...")
 #pi- camera
 vs = VideoStream(usePiCamera=True).start()
 time.sleep(2.0)
-#resolution
 
 
 #open the output CSV file for writing and initialize the set of
