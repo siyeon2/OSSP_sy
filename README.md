@@ -77,3 +77,12 @@ _1/10_
 > 
 > ![open_png](https://user-images.githubusercontent.com/93849755/212860611-746df443-cf0f-4731-9eba-6458f422f7ed.jpg)
 > - 노랑색(기존 소스코드), 파란색(opencv instead of picamera)
+</br>
+
+_1/17_
+>***modifying imutils function***
+> - imutils : 가로 세로 비율을 유지하고 이미지의 치수를 명시적으로 계산하지 않아도 이미지를 의도한 너비/높이로 크기를 조정할 수 있다.
+> - imutils 크기 조정 함수를 수정해 바코드를 인식하는 경계 박스 안에서는 부분적으로 크기가 조정 돼 기존 소스 거리보다 더 멀리서도 인식이 가능한 결과를 얻었다.
+> 
+>![long_png](https://user-images.githubusercontent.com/93849755/213173029-587529c0-528b-44b4-a701-8d25ccfe8782.jpg)
+> - 노랑색(기존 소스코드), 파란색(opencv instead of picamera) , 흰색(modifying imutils function)
